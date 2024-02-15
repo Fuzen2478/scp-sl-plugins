@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scp-sl-plugins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40d44a995151bbefe8ed256ae1f8e0d21588d400")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c7d16717c14c8bc55b95bcaeaf9b7acf91097fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("scp-sl-plugins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scp-sl-plugins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
