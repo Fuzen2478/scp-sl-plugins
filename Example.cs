@@ -1,7 +1,4 @@
-﻿namespace scp_sl_plugins;
-
-class Program
-{
+﻿namespace scp_sl_plugins{
     using Exiled.API.Enums;
     using Exiled.API.Features;
     using Exiled.Example.Events;
@@ -9,8 +6,7 @@ class Program
     /// <summary>
     /// The example plugin.
     /// </summary>
-    public class Example : Plugin<Config>
-    {
+    public class Example : Plugin<Config>{
         private static readonly Example Singleton = new();
 
         private ServerHandler serverHandler;
@@ -21,9 +17,7 @@ class Program
         private Scp914Handler scp914Handler;
         private Scp096Handler scp096Handler;
 
-        private Example()
-        {
-        }
+        private Example(){}
 
         /// <summary>
         /// Gets the only existing instance of this plugin.

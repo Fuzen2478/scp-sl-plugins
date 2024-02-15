@@ -5,7 +5,7 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace Exiled.Example
+namespace scp_sl_plugins
 {
     using System.Collections.Generic;
     using System.ComponentModel;
