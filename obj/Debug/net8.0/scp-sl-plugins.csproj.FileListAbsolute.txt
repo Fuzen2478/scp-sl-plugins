@@ -1,0 +1,15 @@
+/home/fuzen/scp-sl-plugins/bin/Debug/net8.0/scp-sl-plugins
+/home/fuzen/scp-sl-plugins/bin/Debug/net8.0/scp-sl-plugins.deps.json
+/home/fuzen/scp-sl-plugins/bin/Debug/net8.0/scp-sl-plugins.runtimeconfig.json
+/home/fuzen/scp-sl-plugins/bin/Debug/net8.0/scp-sl-plugins.dll
+/home/fuzen/scp-sl-plugins/bin/Debug/net8.0/scp-sl-plugins.pdb
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/scp-sl-plugins.GeneratedMSBuildEditorConfig.editorconfig
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/scp-sl-plugins.AssemblyInfoInputs.cache
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/scp-sl-plugins.AssemblyInfo.cs
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/scp-sl-plugins.csproj.CoreCompileInputs.cache
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/scp-sl-plugins.sourcelink.json
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/scp-sl-plugins.dll
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/refint/scp-sl-plugins.dll
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/scp-sl-plugins.pdb
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/scp-sl-plugins.genruntimeconfig.cache
+/home/fuzen/scp-sl-plugins/obj/Debug/net8.0/ref/scp-sl-plugins.dll
